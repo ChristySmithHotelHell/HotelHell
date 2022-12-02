@@ -35,7 +35,7 @@ function ProductValues() {
                 Discover Firsthand Drama
               </Typography>
               <Typography variant="h5">
-                Christie's experiences in Beverly Hill Hotels have brought her face to face with celebrities, billionairs, scam artists, mobsters, crazies... and the ocassional dead body or two.
+                Christie's experiences in Beverly Hill Hotels have brought her face to face with celebrities, billionaires, scam artists, mobsters, crazies... and the ocassional dead body or two.
               </Typography>
             </Box>
           </Grid>
@@ -67,7 +67,7 @@ function ProductValues() {
                 Bite Sized Stories
               </Typography>
               <Typography variant="h5">
-                This book is comprized of all the juicy bits of a long career. Its easy to pick up, put down, or outwrite bing. Being comprised of smaller stories this book has a little bit for everyone.
+                This book is comprized of all the juicy bits of a long career. Its easy to pick up, put down, or outwrite binge. Being comprised of smaller stories this book has a little bit for everyone.
               </Typography>
             </Box>
           </Grid>
